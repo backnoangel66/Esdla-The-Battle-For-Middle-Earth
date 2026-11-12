@@ -193,4 +193,4 @@ This repository serves as the official landing page for ESDLA. The software is d
 **Get the most recent version of ESDLA: La Batalla por la Tierra Media today!**
 
 ---
-**Last updated:** 2026-11-12 17:49:41 UTC
+**Last updated:** 2026-11-12 23:02:21 UTC
